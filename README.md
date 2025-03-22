@@ -20,7 +20,7 @@ Si has encontrado un error o tienes una sugerencia para mejorar Apparcator, abre
 Apparcator is a collaborative community where users can find and share free parking spots anywhere in the world.  
 
 🔹 **Find free parking** thanks to markers shared by other users  
-🔹 **Share your discoveries** and help the community
+🔹 **Share your discoveries** and help the community  
 🔹 **Vote and comment** to improve the accuracy of the markers  
 
 ## 🌍 Official Website
